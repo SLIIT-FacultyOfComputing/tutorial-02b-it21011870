@@ -1,0 +1,1 @@
+Enter the employ type : Enter the salary : Enter OtHrs : Net Salary is 13400.00
